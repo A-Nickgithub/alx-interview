@@ -1,0 +1,1 @@
+The Lockboxes project involves developing a Python algorithm to determine if all boxes in a sequence can be unlocked using keys found within the boxes. Each box is numbered sequentially from 0 to n-1, and the first box (box 0) is initially unlocked. Each box may contain keys that can unlock other boxes.
