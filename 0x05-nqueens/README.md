@@ -1,0 +1,1 @@
+The 0x05. N Queens project focuses on solving the classic N Queens problem using Python. The goal is to place N queens on an N×N chessboard such that no two queens threaten each other. This project requires understanding and applying key computer science concepts, including backtracking algorithms, recursion, list manipulation, and handling Python command-line arguments
