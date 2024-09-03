@@ -1,0 +1,1 @@
+This project requires you to interact with the Star Wars API (SWAPI) to fetch and display information about Star Wars characters based on a movie ID provided as a command-line argument. The key focus areas will be making HTTP requests, handling asynchronous operations, and manipulating data in JavaScript.
