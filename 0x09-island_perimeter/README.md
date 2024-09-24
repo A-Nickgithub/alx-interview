@@ -1,0 +1,1 @@
+ project involves calculating the perimeter of an island represented by a 2D grid. Each element in the grid can either be water (0) or land (1). The challenge is to determine the perimeter of the island, which is the number of edges of the land cells that are adjacent to water or the edge of the grid.
