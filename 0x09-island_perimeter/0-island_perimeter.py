@@ -46,5 +46,6 @@ def island_perimeter(grid):
                 elif lst_idx == grid_max:
                     # top side
                     if grid[lst_idx - 1][land_idx] == 0:
+                        counter += 1
 
                         return counter
