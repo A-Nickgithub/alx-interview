@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Module for Prime Game"""
+
+
 def sieve_of_eratosthenes(n):
     """ Returns a list of primes up to n """
     is_prime = [True] * (n + 1)
